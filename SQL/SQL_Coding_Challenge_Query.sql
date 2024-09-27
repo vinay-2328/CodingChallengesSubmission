@@ -272,7 +272,8 @@ join Pets p2 on p1.ShelterID = p2.ShelterID and p1.Breed = p2.Breed and p1.PetID
 join Shelters s on p1.ShelterID = s.ShelterID; 
 
 --19. List all possible combinations of shelters and adoption events.
-select s.Name as ShelterName , e.EventName
+select s.Name as ShelterName , e.EventName,
+(select e.EventName from  AdoptionEvents e) as EventName
 from Shelters s
 cross join AdoptionEvents e;
 
