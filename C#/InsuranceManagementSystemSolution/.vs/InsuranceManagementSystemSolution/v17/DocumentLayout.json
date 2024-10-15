@@ -7,64 +7,52 @@
       "RelativeMoniker": "D:0:0:{44636EF6-0168-49E4-B297-14309338809B}|InsuranceManagementSystemApp.Main\\InsuranceManagementSystemApp.Main.csproj|solutionrelative:insurancemanagementsystemapp.main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94854DC6-3ACC-491D-B5E1-5EE9965D00DF}|InsuranceManagementSystem.Exceptions\\InsuranceManagementSystem.Exceptions.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystem.exceptions\\policynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94854DC6-3ACC-491D-B5E1-5EE9965D00DF}|InsuranceManagementSystem.Exceptions\\InsuranceManagementSystem.Exceptions.csproj|C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\insurancemanagementsystem.exceptions\\policynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94854DC6-3ACC-491D-B5E1-5EE9965D00DF}|InsuranceManagementSystem.Exceptions\\InsuranceManagementSystem.Exceptions.csproj|solutionrelative:insurancemanagementsystem.exceptions\\policynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystem.businesslayer\\repository\\policyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\insurancemanagementsystem.businesslayer\\repository\\policyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|solutionrelative:insurancemanagementsystem.businesslayer\\repository\\policyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystem.businesslayer\\services\\ipolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\insurancemanagementsystem.businesslayer\\services\\ipolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|solutionrelative:insurancemanagementsystem.businesslayer\\services\\ipolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystem.businesslayer\\services\\policyserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\insurancemanagementsystem.businesslayer\\services\\policyserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|solutionrelative:insurancemanagementsystem.businesslayer\\services\\policyserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystem.businesslayer\\repository\\ipolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\insurancemanagementsystem.businesslayer\\repository\\ipolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|solutionrelative:insurancemanagementsystem.businesslayer\\repository\\ipolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B2BE280-D820-4906-9385-7BE7A434530D}|InsuranceManagementSystem.Entity\\InsuranceManagementSystem.Entity.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystem.entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B2BE280-D820-4906-9385-7BE7A434530D}|InsuranceManagementSystem.Entity\\InsuranceManagementSystem.Entity.csproj|C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\insurancemanagementsystem.entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B2BE280-D820-4906-9385-7BE7A434530D}|InsuranceManagementSystem.Entity\\InsuranceManagementSystem.Entity.csproj|solutionrelative:insurancemanagementsystem.entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B2BE280-D820-4906-9385-7BE7A434530D}|InsuranceManagementSystem.Entity\\InsuranceManagementSystem.Entity.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystem.entity\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B2BE280-D820-4906-9385-7BE7A434530D}|InsuranceManagementSystem.Entity\\InsuranceManagementSystem.Entity.csproj|C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\insurancemanagementsystem.entity\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B2BE280-D820-4906-9385-7BE7A434530D}|InsuranceManagementSystem.Entity\\InsuranceManagementSystem.Entity.csproj|solutionrelative:insurancemanagementsystem.entity\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B2BE280-D820-4906-9385-7BE7A434530D}|InsuranceManagementSystem.Entity\\InsuranceManagementSystem.Entity.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystem.entity\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B2BE280-D820-4906-9385-7BE7A434530D}|InsuranceManagementSystem.Entity\\InsuranceManagementSystem.Entity.csproj|C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\insurancemanagementsystem.entity\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B2BE280-D820-4906-9385-7BE7A434530D}|InsuranceManagementSystem.Entity\\InsuranceManagementSystem.Entity.csproj|solutionrelative:insurancemanagementsystem.entity\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{061E9D53-D5BB-4434-93D3-B9417D2074CF}|InsuranceManagementSystem.Util\\InsuranceManagementSystem.Util.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystem.util\\propertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{061E9D53-D5BB-4434-93D3-B9417D2074CF}|InsuranceManagementSystem.Util\\InsuranceManagementSystem.Util.csproj|C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\insurancemanagementsystem.util\\propertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{061E9D53-D5BB-4434-93D3-B9417D2074CF}|InsuranceManagementSystem.Util\\InsuranceManagementSystem.Util.csproj|solutionrelative:insurancemanagementsystem.util\\propertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44636EF6-0168-49E4-B297-14309338809B}|InsuranceManagementSystemApp.Main\\InsuranceManagementSystemApp.Main.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystemapp.main\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{44636EF6-0168-49E4-B297-14309338809B}|InsuranceManagementSystemApp.Main\\InsuranceManagementSystemApp.Main.csproj|C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\insurancemanagementsystemapp.main\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{44636EF6-0168-49E4-B297-14309338809B}|InsuranceManagementSystemApp.Main\\InsuranceManagementSystemApp.Main.csproj|solutionrelative:insurancemanagementsystemapp.main\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{061E9D53-D5BB-4434-93D3-B9417D2074CF}|InsuranceManagementSystem.Util\\InsuranceManagementSystem.Util.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystem.util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{061E9D53-D5BB-4434-93D3-B9417D2074CF}|InsuranceManagementSystem.Util\\InsuranceManagementSystem.Util.csproj|C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\insurancemanagementsystem.util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{061E9D53-D5BB-4434-93D3-B9417D2074CF}|InsuranceManagementSystem.Util\\InsuranceManagementSystem.Util.csproj|solutionrelative:insurancemanagementsystem.util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B2BE280-D820-4906-9385-7BE7A434530D}|InsuranceManagementSystem.Entity\\InsuranceManagementSystem.Entity.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystem.entity\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B2BE280-D820-4906-9385-7BE7A434530D}|InsuranceManagementSystem.Entity\\InsuranceManagementSystem.Entity.csproj|C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\insurancemanagementsystem.entity\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B2BE280-D820-4906-9385-7BE7A434530D}|InsuranceManagementSystem.Entity\\InsuranceManagementSystem.Entity.csproj|solutionrelative:insurancemanagementsystem.entity\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystem.businesslayer\\repository\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|solutionrelative:insurancemanagementsystem.businesslayer\\repository\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystem.businesslayer\\repository\\claimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|solutionrelative:insurancemanagementsystem.businesslayer\\repository\\claimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|c:\\users\\vinay\\hexaware\\codingchallengessubmission\\c#\\insurancemanagementsystemsolution\\insurancemanagementsystem.businesslayer\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C1E2B9-F960-470D-8C58-E039AFC8B15B}|InsuranceManagementSystem.BusinessLayer\\InsuranceManagementSystem.BusinessLayer.csproj|solutionrelative:insurancemanagementsystem.businesslayer\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,8 +74,7 @@
               "RelativeToolTip": "InsuranceManagementSystem.BusinessLayer\\Repository\\PolicyRepository.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAKoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:10:18.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T04:10:18.73Z"
             },
             {
               "$type": "Document",
@@ -99,8 +86,7 @@
               "RelativeToolTip": "InsuranceManagementSystem.Exceptions\\PolicyNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:03:18.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T04:03:18.54Z"
             },
             {
               "$type": "Document",
@@ -125,8 +111,7 @@
               "RelativeToolTip": "InsuranceManagementSystem.BusinessLayer\\Services\\IPolicyService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:15:59.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T04:15:59.195Z"
             },
             {
               "$type": "Document",
@@ -138,8 +123,7 @@
               "RelativeToolTip": "InsuranceManagementSystem.BusinessLayer\\Services\\PolicyServiceImpl.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:11:04.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T04:11:04.116Z"
             },
             {
               "$type": "Document",
@@ -151,8 +135,7 @@
               "RelativeToolTip": "InsuranceManagementSystem.BusinessLayer\\Repository\\IPolicyRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:35:03.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T04:35:03.172Z"
             },
             {
               "$type": "Document",
@@ -164,8 +147,7 @@
               "RelativeToolTip": "InsuranceManagementSystem.Entity\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T03:39:25.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T03:39:25.525Z"
             },
             {
               "$type": "Document",
@@ -177,8 +159,7 @@
               "RelativeToolTip": "InsuranceManagementSystem.Entity\\Policy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:00:02.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T04:00:02.129Z"
             },
             {
               "$type": "Document",
@@ -190,8 +171,7 @@
               "RelativeToolTip": "InsuranceManagementSystem.Entity\\Claim.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAwAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:01:42.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T04:01:42.424Z"
             },
             {
               "$type": "Document",
@@ -203,8 +183,7 @@
               "RelativeToolTip": "InsuranceManagementSystem.Util\\PropertyUtil.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:03:42.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T04:03:42.307Z"
             },
             {
               "$type": "Document",
@@ -216,8 +195,7 @@
               "RelativeToolTip": "InsuranceManagementSystemApp.Main\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-15T04:21:49.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T04:21:49.47Z"
             },
             {
               "$type": "Document",
@@ -229,8 +207,7 @@
               "RelativeToolTip": "InsuranceManagementSystem.Util\\DBConnection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:20:44.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T04:20:44.768Z"
             },
             {
               "$type": "Document",
@@ -242,47 +219,7 @@
               "RelativeToolTip": "InsuranceManagementSystem.Entity\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T03:57:26.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ClientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\InsuranceManagementSystem.BusinessLayer\\Repository\\ClientRepository.cs",
-              "RelativeDocumentMoniker": "InsuranceManagementSystem.BusinessLayer\\Repository\\ClientRepository.cs",
-              "ToolTip": "C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\InsuranceManagementSystem.BusinessLayer\\Repository\\ClientRepository.cs",
-              "RelativeToolTip": "InsuranceManagementSystem.BusinessLayer\\Repository\\ClientRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:10:43.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ClaimRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\InsuranceManagementSystem.BusinessLayer\\Repository\\ClaimRepository.cs",
-              "RelativeDocumentMoniker": "InsuranceManagementSystem.BusinessLayer\\Repository\\ClaimRepository.cs",
-              "ToolTip": "C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\InsuranceManagementSystem.BusinessLayer\\Repository\\ClaimRepository.cs",
-              "RelativeToolTip": "InsuranceManagementSystem.BusinessLayer\\Repository\\ClaimRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:10:30.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\InsuranceManagementSystem.BusinessLayer\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "InsuranceManagementSystem.BusinessLayer\\Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\vinay\\Hexaware\\CodingChallengesSubmission\\C#\\InsuranceManagementSystemSolution\\InsuranceManagementSystem.BusinessLayer\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "InsuranceManagementSystem.BusinessLayer\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:08:13.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T03:57:26.503Z"
             }
           ]
         }
