@@ -1,0 +1,6 @@
+C:\Users\vinay\Hexaware\CodingChallengesSubmission\C#\InsuranceManagementSystemSolution\InsuranceManagementSystem.Entity\bin\Debug\InsuranceManagementSystem.Entity.dll
+C:\Users\vinay\Hexaware\CodingChallengesSubmission\C#\InsuranceManagementSystemSolution\InsuranceManagementSystem.Entity\bin\Debug\InsuranceManagementSystem.Entity.pdb
+C:\Users\vinay\Hexaware\CodingChallengesSubmission\C#\InsuranceManagementSystemSolution\InsuranceManagementSystem.Entity\obj\Debug\InsuranceManagementSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\vinay\Hexaware\CodingChallengesSubmission\C#\InsuranceManagementSystemSolution\InsuranceManagementSystem.Entity\obj\Debug\InsuranceManagementSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\vinay\Hexaware\CodingChallengesSubmission\C#\InsuranceManagementSystemSolution\InsuranceManagementSystem.Entity\obj\Debug\InsuranceManagementSystem.Entity.dll
+C:\Users\vinay\Hexaware\CodingChallengesSubmission\C#\InsuranceManagementSystemSolution\InsuranceManagementSystem.Entity\obj\Debug\InsuranceManagementSystem.Entity.pdb
